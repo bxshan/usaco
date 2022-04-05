@@ -1,1 +1,1 @@
-# usaco code
+# USACO code
